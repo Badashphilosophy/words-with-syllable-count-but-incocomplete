@@ -1,0 +1,1 @@
+so its quite a decently dont list guys, 1 2 3 4 syllable words are mostly correct though not totally, enough to build a probability engine off of though to correct the rest of the words which i plan to do. hopefully its successful and soon we will have an even bigger better more correct list of words
