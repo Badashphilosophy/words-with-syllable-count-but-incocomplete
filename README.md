@@ -1,7 +1,7 @@
 
 Project Summary
 
-This repository contains a structured linguistic corpus of aprox 83,000 English terms. i wont say words because it has all kinds of nonstandard words like babyishness for example, it has 4 representations for each entry. This dataset is designed with the intention of being a clean, machine-readable resource for computational linguistics, phonetic research, speech synthesis, and the development of highly efficient constructed languages (conlangs). I did my best, appologies if it isnt perfect
+This repository contains a structured linguistic corpus of aprox 83,000 English terms. i wont say words because it has all kinds of nonstandard words like babyishness for example, it has 4 representations for each entry which il describe further down This dataset is designed with the intention of being a clean, machine-readable resource for computational linguistics, phonetic research, speech synthesis, and the development of efficient constructed languages (conlangs). I did my best, appologies if it isnt perfect
 
 Format Example (based on the word "debasingly"):
 
@@ -12,7 +12,7 @@ Column	Content	Example	Description
 4.	Custom Phonetic Encoding	  D IY0 ; B EY1 S ; IH0 NG ; L IY0	The unique, abstract symbol-based encoding derived from the phonetic structure (the core component of the user's efficient language research).
 Key Features and Use Cases
 
-This corpus is particularly useful for the following applications (although not perfectly polished -98 percent correct give or take):
+This corpus is particularly useful for the following applications (although not perfectly polished -95 percent correct give or take):
 
 1. Phonetic Analysis and Speech Synthesis
 
@@ -47,6 +47,8 @@ Test language compression and efficiency algorithms.
 Linguistics students and educators can use the structured format to cross-reference common English words with their syllabic and phonetic realities, which are often obscured by complex English spelling rules.
 
 This corpus is generously estimated to be over 98% accurate in its syllabification and phonetic encoding. Contributions, corrections, and refinements are highly welcome.
+
+for use, i recomend finsing a dataset of words you want to use, and using exact match for the true spelling in the first collumn to extract those particular words full lines from the list
 
 Keywords:
 English Corpus, Syllabified Dictionary, Phonetic Dictionary, Phonetic Transliteration, Linguistic Data, NLP Dataset, 83k Words
