@@ -1,0 +1,211 @@
+LA | illa (L), ulla (L) | that; any | A pronoun used to specify "that" or "any."
+
+AZ | phrazo (G), onomazo (G) | to point out, declare; to name | To point toward or liken; a linguistic marker for comparison or metaphor.
+
+IZ | est (L), sit (L), esse (L), esti (G) | he/she/it is; let it be; to be; he/she/it is | The third-person singular present tense of the verb "to be"; is.
+
+HA | hic, haec, hoc (L) | this, these | The demonstrative pronoun "this" or "these."
+
+AL | quale (L) | of what kind, of which sort | Pertaining to the quality, kind, or nature of something.
+
+AM | iam (L) | now, already | A state of immediate presence in time; now or already.
+
+OI | quoi (L), hoi (G), toi (G) | to whom, to which; the (pl.); to the (sing.) | A designator that specifies a particular noun or recipient; the act of pointing to.
+
+UE | quem (L) | whom | An interrogative or relative pronoun for a person; who/whom.
+
+OQ | quoque (L), quoquo (L) | also, too; to whatever place | A modifier indicating inclusion (also) or non-specific direction (to any place).
+
+OM | quom (L), aequom (L), omma (G) | when (archaic); equal, level; the eye | The perception or definition of a fundamental quality or state.
+
+OP | ope (L), kopos (G), hopla (G) | power, resources, aid; toil, labor; tools, arms | The application of resources, labor, or aid to optimize an outcome.
+
+BR | bryo (G), crebro (L) | to be full, to teem; crowded, numerous | A state of abundance, fullness, or dense population.
+
+BS | abs (L) | from, away from, by | From or away from.
+
+BU | bubus (L), bous (G) | cattle, ox; ox, cow | A domesticated bovine; an ox or cow.
+
+EE | deesse (L), esse (L), eleos (G) | to be lacking; to be; pity, mercy | The state of being or existence, or the pity evoked by such a state.
+
+LM | alma (L), psalmos (G) | nourishing, kind; a psalm (spiritual nourishment) | Nourishment, whether physical, natural, or spiritual.
+
+OA | quoad (L), proaigo (G) | until, as long as; to go before | A temporal boundary defined by what comes before an event; until.
+
+RD | ardor (L), kardia (G) | passion, heat; the heart | Passion, heat, or the heart as the source of intense feeling.
+
+AD | tradere (L), paradidomi (G) | to hand over, deliver; to hand over, transmit | The principle of exchange, encompassing acts of transmission, trade, or addition.
+
+AG | magnus (L), magos (G/L) | great, large; a magician, a sage | The quality of the fantastical or ethereal; that which operates beyond the bounds of the tangible world.
+
+AI | maior (L), anabaino (G) | greater, majestic; to go up, ascend | The concept of ascension toward a greater or more majestic state.
+
+AH | trahere (L), ahthos (G) | to pull, drag, draw out; a burden, a load to be dragged | The act of pulling or dragging, especially a heavy burden.
+
+AY | kayx (G) | a crying seabird | To manifest or assert presence perhaps through sound; the opposite of silence, dissolving into nothingness.
+
+AU | nauis (L), naus (G) | boat, ship; boat, ship | A floating vessel.
+
+AX | taxis (G), pax (L) | an ordering, an arrangement; a binding agreement, a settled arrangement | A central line or principle around which things are ordered or arranged.
+
+DI | dico (L), dikaios (G) | to say, to speak, to declare; just, righteous | To declare or show what is right
+
+NP | inposita (L), inponitur (L), inposuit (L), inpositum (L), synparistemi (G) | to place upon, to impose; to present, to position | The act of positioning or setting in place
+
+DQ | adquirere (L), adquiri (L) | to seek for, acquire, obtain; to be acquired | The act of acquisition or seeking to obtain.
+
+EH | deprehensus (L), prehendo (L), comprehendo (L) | seized, caught; to seize, grasp; to grasp, comprehend | The act of seizing, grasping, or catching, either physically or mentally.
+
+EG | ego (L), ego (G) | I, the self; I, the self | A focus on the self, potentially to the exclusion of external considerations.
+
+EI | aei (G), ei (G), ei (L) | always, perpetually; if; to him/her/it | To designate a specific target, condition, or direction; the act of pointing toward.
+
+UP | super (L), hyper (G) | over, above, beyond; over, above, beyond | The concept of being over, above, or in a superior position.
+
+LU | asylum (G), salus (L), solvere (L), lux (L) | a refuge from seizure; safety, salvation; to loosen, set free; light | A state of safety, release, or clarity, often associated with light.
+
+NU | nullus (L), aphonus (G), numen (L) | none, not any; voiceless, mute; a silent, divine will or command | A state of nullity, particularly in the absence of sound or voice.
+
+PO | postliminio (L), inposita (L), inponitur (L), inposuit (L), inpositum (L) | position after threshold; to place upon; to impose | The state or act of placement 2
+
+YD | hydra (G), hydragogos (G), hydor (G), hydria (G), hydrops (G) | water | The element of water
+
+FA | fata (L), fama (L), fas (L), nifas (G) | prophetic declaration; fate; report; reputation; divine law; speaking | That which is spoken or declared
+
+RA | ratio (L), oratio (L), orare (L) | reason; reckoning; speech; discourse; to speak | The concept of reasoned speech
+
+RH | rheo (G), rhetor (G), Rhenum (L) | to flow; a public speaker; the Rhine river | The principle or quality of unimpeded movement or flow.
+
+GM | dogma (G), stigma (G), phragmos (G), agmen (L) | a belief held firm; a mark that sticks; a fence or barrier; a procession or stream | A fixed point, mark, or belief that exists within, and potentially directs or halts, a larger flow.
+
+FO | forma (L), morfosis (G) | shape; form; beauty; a forming; a shaping | The concept of shape or form
+
+IF | aedificia (L), artifex (L), pontifex (L), sacrificium (L), significat (L), difficile (L) | to make a dwelling; to make art; bridge-maker; to make sacred; to make a sign; not easy to make/do | The act of making, constructing, or creating meaning
+
+YN | syn (G), synago (G), synergos (G), syndeo (G), synodos (G), dynatos (G), dynamis (G) | with; together; to lead together; to work together; to bind together; a journey together; powerful; able; power; might | A generative or synthetic force
+
+HM | drachm (L), drachme (G), arithmos (G), rhythmos (G), stathmos (G) | unit of weight; number; counting; measured motion; rhythm; standard of measure | A system of measure, number, or structured pattern
+
+OH | prohibere (L), prohairesis (G), cohors (L) | to hold back; to prevent; a deliberate choice; purpose; an enclosed space or a constrained group in a space | The deliberate constraint of impulse, through either external prevention or internal choice.
+
+SM | kosmos (G), logismos (G), thesmos (G), eiusmodi (L) | order, system; reasoning, system of thought; law, institution; of that kind or system | A defined system, order, or set of rules that results in something predictable.
+
+YM | nympha (L), nymphe (G), hymnos (G), thymos (G), symbolon (G) | a nymph; a nymph; a hymn to a god; spirit, passion; a symbol | The realm of the mythological, symbolic, or spiritual.
+
+SU | sua (L), suo (L), psuche (G) | his/her/its own; his/her/its own; the soul, the self | The core concept of the self, its properties, and its possessions.
+
+AE | alae (L), alae (G) | of the wing; wing | A wing.
+
+OK | dokeo (G), dokazo (G) | to seem, to have an opinion; to suppose, imagine | The realm of seeming, appearance, opinion, or supposition.
+
+OL | uolo (L), homologeo (G) | to wish, will, want; to agree with, share a will | The concept of will, wish, desire, or agreement.
+
+OZ | ozos (G), armozein (G) | a branch, a twig; to fit together, to adapt | A branch or a component part that is fitted to a larger whole.
+
+ZM | zyme (G) | leaven, yeast | A catalyst that causes change and growth from within.
+
+RT | arte (L), artios (G) | art, skill, craft; fitted, complete, perfect | Skill, craft, or the quality of being well-fitted and complete.
+
+SA | sal (L), salos (G) | salt; the tossing sea, salt swell | Salt, or that which pertains to the salt sea.
+
+SB | asbestos (G) | unquenchable, inextinguishable | The quality of being unquenchable or inextinguishable.
+
+SK | askeo (G), disco (L, sc equivalent) | to practice, train; to learn | To gain knowledge or ability through disciplined practice.
+
+SO | sol (L), sophia (G) | the sun; wisdom | Clarity, wisdom, or enlightenment, as symbolized by the sun.
+
+SP | spes (L), speiro (G) | hope; to sow seed | Hope, as embodied by the act of sowing seed for a future return.
+
+SQ | sequor (L) | to follow | To follow in sequence.
+
+NM | inmerito (L), molynmos (G) | unjustly, undeservedly; a stain, defilement | The state of being unjust, defiled, or negated from purity.
+
+YA | cyathis (L), hyalos (G) | a ladle, a cup; crystal, glass | A vessel made of glass or crystal; a cup.
+
+LB | olbios (G), albus (L) | happy, blessed, prosperous; white, bright, clear | A state of brightness, purity, or blessedness.
+
+TU | tu (L), tua (L), tuo (L) | you; your; your | The second-person pronoun; you/your.
+
+YG | zygos (G), azygos (G), syggenes (G) | a yoke, a pair; unyoked, unpaired; related, kin | A yoke, a joining, or a pair.
+
+AK | dakno (G) | to bite | The act of biting.
+
+CL | kleio (G), claustra (L), clausa (L) | to shut, to close; a barrier, a lock; closed, enclosed | A barrier that closes or encloses; the act of shutting.
+
+CR | krisis (G), crimen (L), credo (L) | a decision, a judgment; a charge, a verdict; I believe | An act of judgment, a verdict, or a core belief.
+
+CA | caua (L), arca (L), kamaros (G) | a hollow place, a cave; a box, a chest; a vaulted chamber | An enclosed or hollow space.
+
+CE | ecce (L), uoce (L), phtheggomai (G) | behold!, see!; with a voice, by a sound; to utter a sound | The act of making something perceptible, by voice or by sight.
+
+CH | pulcher (L), charis (G) | beautiful, fair; grace, beauty, favor | The quality of grace, beauty, or favor.
+
+CI | circum (L), kirkos (G), ciuitas (L) | around, in a circle; a circle, a ring; a state, a citizenry | A circle, ring, or enclosure.
+
+EU | beneuolentia (L), eu- (G prefix) | goodwill, kindness; good, well | The quality of being good, well, or having goodwill.
+
+EZ | kathezomai (G), trapeza (G) | to sit down; table | Relating to sitting or a table.
+
+FE | ferre (L) | to bear, carry | The act of bearing or carrying.
+
+EX | ex (L), alexo (G) | out of, from; to ward off, keep out | Movement out of or away from a source.
+
+FL | flos (L), phyllon (G) | a flower, a blossom; a leaf | Foliage, a flower, or a leaf; the blossoming part of a plant.
+
+FU | fuga (L), phyge (G) | flight, the act of fleeing; flight, escape | The act of flight or escape.
+
+FI | fieri (L), physis (G) | to become, be made, happen; nature, the natural order | The natural process, in accordance with nature. Physics.
+
+FR | phren (G), phrontis (G), suffragium (L), phrazo (G) | the mind, intellect; thought; a vote, judgment; to point out, declare | The process of thought, from the intellect to its expression as a judgment or declaration.
+
+GA | agere (L), ago (G) | to do, act, drive, lead; to lead, drive, bring | To act, to do, to lead, or to drive.
+
+GC | elegchos (G), elegcho (G) | a refutation, scrutiny, proof; to refute, convict | Refutation, scrutiny, or proof.
+
+GE | ager (L), ge (G) | a field, land, territory; earth, land | Earth, land, or field.
+
+GI | agi (L), gignomai (G) | to be done, to be led, to be acted upon; to become, to be born, to come into being | The passive state of being acted upon, becoming, or being brought into existence.
+
+HE | heros (G), hercules (L), heres (L) | hero; the divine hero Hercules; an heir | A divine or heroic figure, or that which pertains to them.
+
+GR | grapho (G), gramma (G), gradus (L), agricola (L) | to write, to draw; a written letter; a step that leaves a mark; a farmer who marks the land | The act of writing, drawing, or making a deliberate mark upon a surface.
+
+IK | eiko (G), ikon (G) | to be like, to resemble; a likeness, an image | An image, likeness, or resemblance.
+
+IM | primus (L), eimi (G) | first, foremost; to be, to exist | The first, primary, or most fundamental or basis including 'states of being.'
+
+IP | laips (G), pipto (G), leipo (G) | a violent gust of wind, a storm; to fall, collapse; to leave, abandon | A sudden, forceful event of release or departure, a lifechanging event or a sudden change
+
+IR | ira (L), eris (G) | anger, wrath; strife, discord, contention | A state of friction, irritation, anger, or strife.
+
+IS | fecisse (L), dixisse (L), pistis (G), krisis (G) | to have made, to have done; to have said, to have spoken; faith, trust; judgment, decision | An established state, precedent, or abstract concept that results from a completed action.
+
+IT | | | The third-person singular pronoun for a thing, place, or concept; it.
+
+IU | diu (L), aion (G) | for a long time; an age, a lifetime | A long duration of time, an age, or a lifetime.
+
+IX | uix (L), lix (G) | with difficulty, scarcely; crooked, slanting | A state of difficulty, friction, or not fitting correctly.
+
+KI | akis (G), acies (L) | a sharp point, a sting; a sharp edge, a point | To apply force through a sharp point in a forward linear motion; to pierce or puncture.
+
+KE | arkeo (G), securus (L) | to be sufficient, to ward off, to defend; secure, safe from attack | Sufficiency, security, or the capacity to defend oneself.
+
+KL | kleos (G), akleos (G), eukleia (G) | glory, fame; without fame, inglorious; good repute, glory | The spectrum of renown, from fame and glory to infamy.
+
+KM | akme (G), akmaios (G) | the highest point, peak, prime; in one's prime, vigorous | The peak, the prime, or the highest point of a state or action.
+
+KN | okneo (G), oknos (G) | to hesitate, shrink from; hesitation | The act of hesitating or shrinking back.
+
+KO | akoe (G), akouo (G) | hearing, the sense of hearing; I hear | The sense of hearing or the act of perceiving sound.
+
+KR | kreo (G), cruor (L) | flesh, meat; blood, gore | Flesh, blood, or the raw substance of the body.
+
+KS | deiksis (G), ekstasis (G) | a pointing out, a proof; displacement | a proof, or an argument.
+
+KT | ektos (G) | outside, without | The state of being outside or without.
+
+KY | kybernetes (G) | a helmsman, a governor, a pilot | An authority who directs or governs movement.
+
+LG | uulgus (L) | the common people, the crowd, the mass | The common people, a crowd, or the masses.
+
+LE | lex (L), entole (G), apostolos (G) | law; commandment; one sent with a commission or law | The principle of law, rules, or commandments.
